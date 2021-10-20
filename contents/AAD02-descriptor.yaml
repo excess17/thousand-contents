@@ -3,47 +3,53 @@ typeCode: AAD
 description: Content AAD 2 description
 mainGroup: free
 status: PUBLIC
-listModel: '240'
-defaultModel: '241'
+listModel: '18'
+defaultModel: '19'
 attributes:
-  - code: longtext09
+  - code: longtext10
     value: null
     values:
-      en: <p>Maxime in maxime.</p>
+      en: <p>Ratione sit distinctio consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext04
+  - code: three-state09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite08
+  - code: bool04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite03
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite08-text
+      - code: composite03-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite08-boolean
+      - code: composite03-boolean
         value: null
         values:
-          en: composite08 boolean field
-          it: composite08 boolean field
+          en: composite03 boolean field
+          it: composite03 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: monolist10
+  - code: monolist06
     value: null
     values: {}
     elements:
-      - code: monolist10
+      - code: monolist06
         value: null
         values:
           en: list1 field
@@ -51,7 +57,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist10
+      - code: monolist06
         value: null
         values:
           en: list2 field
@@ -61,48 +67,43 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: title
-    value: null
-    values:
-      en: <p>Maxime in maxime.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator05
+  - code: checkbox08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext11
+  - code: link11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
     value: null
     values:
-      en: <p>Maxime in maxime.</p>
+      en: <p>Ratione sit distinctio consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text05
+    value: null
+    values:
+      en: <p>Ratione sit distinctio consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext07
+    value: null
+    values:
+      en: <p>Ratione sit distinctio consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Maxime in maxime.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: email02
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap03
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp06
-    value: null
-    values: {}
+      en: <p>Ratione sit distinctio consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}

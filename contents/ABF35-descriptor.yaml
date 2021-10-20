@@ -3,33 +3,45 @@ typeCode: ABF
 description: Content ABF 35 description
 mainGroup: free
 status: PUBLIC
-listModel: '1200'
-defaultModel: '1201'
+listModel: '90'
+defaultModel: '91'
 attributes:
-  - code: longtext11
+  - code: body
     value: null
     values:
-      en: <p>Adipisci quam et rem et praesentium occaecati numquam.</p>
+      en: <p>Nostrum dolorem esse harum.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext10
+  - code: date09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state06
+  - code: image08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist01
+  - code: three-state11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist10
     value: null
     values: {}
     elements:
-      - code: monolist01
+      - code: monolist10
         value: null
         values:
           en: list1 field
@@ -37,7 +49,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist01
+      - code: monolist10
         value: null
         values:
           en: list2 field
@@ -47,7 +59,7 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: link02
+  - code: link07
     value: null
     values: {}
     elements: []
@@ -56,31 +68,11 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Adipisci quam et rem et praesentium occaecati numquam.</p>
+      en: <p>Nostrum dolorem esse harum.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text09
-    value: null
-    values:
-      en: <p>Adipisci quam et rem et praesentium occaecati numquam.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext03
-    value: null
-    values:
-      en: <p>Adipisci quam et rem et praesentium occaecati numquam.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach04
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator08
+  - code: attach01
     value: null
     values: {}
     elements: []
@@ -89,11 +81,11 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Adipisci quam et rem et praesentium occaecati numquam.</p>
+      en: <p>Nostrum dolorem esse harum.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp05
+  - code: enumeratormap00
     value: null
     values: {}
     elements: []

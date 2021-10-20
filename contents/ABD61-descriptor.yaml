@@ -3,51 +3,47 @@ typeCode: ABD
 description: Content ABD 61 description
 mainGroup: free
 status: PUBLIC
-listModel: '1040'
-defaultModel: '1041'
+listModel: '78'
+defaultModel: '79'
 attributes:
   - code: body
     value: null
     values:
-      en: <p>Autem qui aut quisquam tenetur eaque similique.</p>
+      en: <p>Eum dolores provident natus tenetur soluta cumque.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext08
+  - code: number08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool02
+  - code: hypertext11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist04
+  - code: three-state00
     value: null
     values: {}
-    elements:
-      - code: monolist04
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: monolist04
-        value: null
-        values:
-          en: list2 field
-          it: list2 field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    elements: []
     compositeelements: []
     listelements: {}
-  - code: checkbox06
+  - code: bool07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link10
     value: null
     values: {}
     elements: []
@@ -56,36 +52,31 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Autem qui aut quisquam tenetur eaque similique.</p>
+      en: <p>Eum dolores provident natus tenetur soluta cumque.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator10
+  - code: text01
     value: null
-    values: {}
+    values:
+      en: <p>Eum dolores provident natus tenetur soluta cumque.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Autem qui aut quisquam tenetur eaque similique.</p>
+      en: <p>Eum dolores provident natus tenetur soluta cumque.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email09
+  - code: email03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap01
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp11
+  - code: enumeratormap04
     value: null
     values: {}
     elements: []

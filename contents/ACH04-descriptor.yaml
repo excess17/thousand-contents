@@ -1,0 +1,105 @@
+id: 2164
+typeCode: ACH
+description: Content ACH 4 description
+mainGroup: free
+status: PUBLIC
+listModel: '162'
+defaultModel: '163'
+attributes:
+  - code: longtext01
+    value: null
+    values:
+      en: <p>Et qui saepe aliquam omnis sit dolore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext05
+    value: null
+    values:
+      en: <p>Et qui saepe aliquam omnis sit dolore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Et qui saepe aliquam omnis sit dolore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite04
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite04-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite04-boolean
+        value: null
+        values:
+          en: composite04 boolean field
+          it: composite04 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: checkbox10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Et qui saepe aliquam omnis sit dolore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text06
+    value: null
+    values:
+      en: <p>Et qui saepe aliquam omnis sit dolore.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

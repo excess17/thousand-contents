@@ -3,103 +3,98 @@ typeCode: AAB
 description: Content AAB 9 description
 mainGroup: free
 status: PUBLIC
-listModel: '80'
-defaultModel: '81'
+listModel: '6'
+defaultModel: '7'
 attributes:
-  - code: body
+  - code: longtext05
     value: null
     values:
-      en: <p>Officiis assumenda est dicta consectetur deleniti quia.</p>
+      en: <p>Ab architecto dolor eum rerum.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date11
+  - code: number01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image04
+  - code: hypertext11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext09
+  - code: three-state07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist09
+    value: null
+    values: {}
+    elements:
+      - code: monolist09
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist09
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: link04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
     value: null
     values:
-      en: <p>Officiis assumenda est dicta consectetur deleniti quia.</p>
+      en: <p>Ab architecto dolor eum rerum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text08
+    value: null
+    values:
+      en: <p>Ab architecto dolor eum rerum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach10
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Officiis assumenda est dicta consectetur deleniti quia.</p>
+      en: <p>Ab architecto dolor eum rerum.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap00
+  - code: enumeratormap02
     value: null
     values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: number08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: hypertext10
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: three-state02
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: composite07
-    value: null
-    values: {}
-    elements: []
-    compositeelements:
-      - code: composite07-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite07-boolean
-        value: null
-        values:
-          en: composite07 boolean field
-          it: composite07 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
-    listelements: {}
-  - code: title
-    value: null
-    values:
-      en: <p>Officiis assumenda est dicta consectetur deleniti quia.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator01
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text03
-    value: null
-    values:
-      en: <p>Officiis assumenda est dicta consectetur deleniti quia.</p>
     elements: []
     compositeelements: []
     listelements: {}

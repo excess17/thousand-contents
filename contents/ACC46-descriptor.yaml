@@ -3,87 +3,103 @@ typeCode: ACC
 description: Content ACC 46 description
 mainGroup: free
 status: PUBLIC
-listModel: '1760'
-defaultModel: '1761'
+listModel: '132'
+defaultModel: '133'
 attributes:
   - code: body
     value: null
     values:
-      en: <p>Modi dignissimos quisquam ratione aspernatur quia.</p>
+      en: <p>Recusandae omnis deserunt.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date11
+  - code: number05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image02
+  - code: bool11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool05
+  - code: monolist04
+    value: null
+    values: {}
+    elements:
+      - code: monolist04
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist04
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite08
     value: null
     values: {}
     elements: []
-    compositeelements: []
+    compositeelements:
+      - code: composite08-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite08-boolean
+        value: null
+        values:
+          en: composite08 boolean field
+          it: composite08 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
-  - code: link07
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext09
+  - code: title
     value: null
     values:
-      en: <p>Modi dignissimos quisquam ratione aspernatur quia.</p>
+      en: <p>Recusandae omnis deserunt.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator03
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Modi dignissimos quisquam ratione aspernatur quia.</p>
+      en: <p>Recusandae omnis deserunt.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number04
+  - code: email07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: title
-    value: null
-    values:
-      en: <p>Modi dignissimos quisquam ratione aspernatur quia.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach10
+  - code: timestamp10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text08
-    value: null
-    values:
-      en: <p>Modi dignissimos quisquam ratione aspernatur quia.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: email00
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp01
+  - code: enumeratormap09
     value: null
     values: {}
     elements: []

@@ -3,94 +3,94 @@ typeCode: ABG
 description: Content ABG 71 description
 mainGroup: free
 status: PUBLIC
-listModel: '1280'
-defaultModel: '1281'
+listModel: '96'
+defaultModel: '97'
 attributes:
   - code: body
     value: null
     values:
-      en: <p>Temporibus dolorem assumenda.</p>
+      en: <p>Dicta ex qui facilis sint.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number11
+  - code: date05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext08
+  - code: number01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state05
+  - code: image09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool03
+  - code: hypertext03
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite09
+  - code: three-state10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite07
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite09-text
+      - code: composite07-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite09-boolean
+      - code: composite07-boolean
         value: null
         values:
-          en: composite09 boolean field
-          it: composite09 boolean field
+          en: composite07 boolean field
+          it: composite07 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: link10
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Temporibus dolorem assumenda.</p>
+      en: <p>Dicta ex qui facilis sint.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext04
+  - code: text04
     value: null
     values:
-      en: <p>Temporibus dolorem assumenda.</p>
+      en: <p>Dicta ex qui facilis sint.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Temporibus dolorem assumenda.</p>
+      en: <p>Dicta ex qui facilis sint.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email00
+  - code: timestamp08
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap06
+  - code: enumeratormap11
     value: null
     values: {}
     elements: []

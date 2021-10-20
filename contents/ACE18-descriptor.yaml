@@ -3,33 +3,27 @@ typeCode: ACE
 description: Content ACE 18 description
 mainGroup: free
 status: PUBLIC
-listModel: '1920'
-defaultModel: '1921'
+listModel: '144'
+defaultModel: '145'
 attributes:
-  - code: body
+  - code: longtext03
     value: null
     values:
-      en: <p>Ut ea sequi et aliquid sit ad.</p>
+      en: <p>Et ab nihil consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date06
+  - code: date05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext07
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monolist11
+  - code: monolist09
     value: null
     values: {}
     elements:
-      - code: monolist11
+      - code: monolist09
         value: null
         values:
           en: list1 field
@@ -37,7 +31,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist11
+      - code: monolist09
         value: null
         values:
           en: list2 field
@@ -47,7 +41,27 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: link05
+  - code: composite11
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite11-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite11-boolean
+        value: null
+        values:
+          en: composite11 boolean field
+          it: composite11 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link02
     value: null
     values: {}
     elements: []
@@ -56,24 +70,11 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Ut ea sequi et aliquid sit ad.</p>
+      en: <p>Et ab nihil consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext04
-    value: null
-    values:
-      en: <p>Ut ea sequi et aliquid sit ad.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach10
+  - code: enumerator06
     value: null
     values: {}
     elements: []
@@ -82,11 +83,17 @@ attributes:
   - code: description
     value: null
     values:
-      en: <p>Ut ea sequi et aliquid sit ad.</p>
+      en: <p>Et ab nihil consequatur.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap09
+  - code: enumeratormap00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp10
     value: null
     values: {}
     elements: []

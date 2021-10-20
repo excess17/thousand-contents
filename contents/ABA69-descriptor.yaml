@@ -3,13 +3,13 @@ typeCode: ABA
 description: Content ABA 69 description
 mainGroup: free
 status: PUBLIC
-listModel: '800'
-defaultModel: '801'
+listModel: '60'
+defaultModel: '61'
 attributes:
-  - code: body
+  - code: longtext03
     value: null
     values:
-      en: <p>Velit nostrum et cupiditate natus itaque optio.</p>
+      en: <p>Optio est laborum iusto tempore maxime.</p>
     elements: []
     compositeelements: []
     listelements: {}
@@ -19,19 +19,47 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image09
+  - code: image07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool02
+  - code: three-state11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: link08
+  - code: bool08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist04
+    value: null
+    values: {}
+    elements:
+      - code: monolist04
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist04
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox09
     value: null
     values: {}
     elements: []
@@ -40,43 +68,31 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Velit nostrum et cupiditate natus itaque optio.</p>
+      en: <p>Optio est laborum iusto tempore maxime.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach03
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator06
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text11
+  - code: monotext05
     value: null
     values:
-      en: <p>Velit nostrum et cupiditate natus itaque optio.</p>
+      en: <p>Optio est laborum iusto tempore maxime.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Velit nostrum et cupiditate natus itaque optio.</p>
+      en: <p>Optio est laborum iusto tempore maxime.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email04
+  - code: email02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp07
+  - code: timestamp00
     value: null
     values: {}
     elements: []

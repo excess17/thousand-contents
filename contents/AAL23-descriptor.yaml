@@ -3,19 +3,13 @@ typeCode: AAL
 description: Content AAL 23 description
 mainGroup: free
 status: PUBLIC
-listModel: '720'
-defaultModel: '721'
+listModel: '54'
+defaultModel: '55'
 attributes:
-  - code: longtext10
+  - code: body
     value: null
     values:
-      en: <p>Perferendis aut at rerum veritatis dolore ea.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: date07
-    value: null
-    values: {}
+      en: <p>Corporis cupiditate sequi voluptas ex explicabo necessitatibus.</p>
     elements: []
     compositeelements: []
     listelements: {}
@@ -25,11 +19,59 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state11
+  - code: hypertext08
     value: null
     values: {}
     elements: []
     compositeelements: []
+    listelements: {}
+  - code: three-state06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist10
+    value: null
+    values: {}
+    elements:
+      - code: monolist10
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist10
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite11
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite11-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite11-boolean
+        value: null
+        values:
+          en: composite11 boolean field
+          it: composite11 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
   - code: checkbox03
     value: null
@@ -40,30 +82,31 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Perferendis aut at rerum veritatis dolore ea.</p>
+      en: <p>Corporis cupiditate sequi voluptas ex explicabo necessitatibus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator08
+  - code: attach05
     value: null
     values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext07
+    value: null
+    values:
+      en: <p>Corporis cupiditate sequi voluptas ex explicabo necessitatibus.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Perferendis aut at rerum veritatis dolore ea.</p>
+      en: <p>Corporis cupiditate sequi voluptas ex explicabo necessitatibus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email00
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp09
+  - code: enumeratormap09
     value: null
     values: {}
     elements: []

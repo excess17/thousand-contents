@@ -1,0 +1,121 @@
+id: 2069
+typeCode: ACF
+description: Content ACF 69 description
+mainGroup: free
+status: PUBLIC
+listModel: '150'
+defaultModel: '151'
+attributes:
+  - code: longtext05
+    value: null
+    values:
+      en: <p>A explicabo qui natus alias et est dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext10
+    value: null
+    values:
+      en: <p>A explicabo qui natus alias et est dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>A explicabo qui natus alias et est dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite00
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite00-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite00-boolean
+        value: null
+        values:
+          en: composite00 boolean field
+          it: composite00 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist06
+    value: null
+    values: {}
+    elements:
+      - code: monolist06
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist06
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>A explicabo qui natus alias et est dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text07
+    value: null
+    values:
+      en: <p>A explicabo qui natus alias et est dolorem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

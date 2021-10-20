@@ -3,104 +3,80 @@ typeCode: AAH
 description: Content AAH 61 description
 mainGroup: free
 status: PUBLIC
-listModel: '560'
-defaultModel: '561'
+listModel: '42'
+defaultModel: '43'
 attributes:
-  - code: longtext05
+  - code: longtext10
     value: null
     values:
-      en: <p>Deleniti quod quidem deserunt.</p>
+      en: <p>Ut rem veniam officia praesentium autem quas.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext06
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: bool08
+  - code: date02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite04
+  - code: three-state09
     value: null
     values: {}
     elements: []
-    compositeelements:
-      - code: composite04-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite04-boolean
-        value: null
-        values:
-          en: composite04 boolean field
-          it: composite04 boolean field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    compositeelements: []
     listelements: {}
-  - code: monolist11
+  - code: bool07
     value: null
     values: {}
-    elements:
-      - code: monolist11
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: monolist11
-        value: null
-        values:
-          en: list2 field
-          it: list2 field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link08
+    value: null
+    values: {}
+    elements: []
     compositeelements: []
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Deleniti quod quidem deserunt.</p>
+      en: <p>Ut rem veniam officia praesentium autem quas.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator02
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text07
+  - code: monotext04
     value: null
     values:
-      en: <p>Deleniti quod quidem deserunt.</p>
+      en: <p>Ut rem veniam officia praesentium autem quas.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Deleniti quod quidem deserunt.</p>
+      en: <p>Ut rem veniam officia praesentium autem quas.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email10
+  - code: enumeratormap00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap01
+  - code: timestamp11
     value: null
     values: {}
     elements: []

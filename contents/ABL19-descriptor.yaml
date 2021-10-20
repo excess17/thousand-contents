@@ -3,95 +3,89 @@ typeCode: ABL
 description: Content ABL 19 description
 mainGroup: free
 status: PUBLIC
-listModel: '1520'
-defaultModel: '1521'
+listModel: '114'
+defaultModel: '115'
 attributes:
-  - code: longtext11
+  - code: body
     value: null
     values:
-      en: <p>Earum optio molestiae voluptatem.</p>
+      en: <p>Consequuntur laudantium ab id sed.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext09
+  - code: number11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist01
+  - code: image09
     value: null
     values: {}
-    elements:
-      - code: monolist01
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: monolist01
-        value: null
-        values:
-          en: list2 field
-          it: list2 field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    elements: []
     compositeelements: []
     listelements: {}
-  - code: composite10
+  - code: hypertext06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite05
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite10-text
+      - code: composite05-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite10-boolean
+      - code: composite05-boolean
         value: null
         values:
-          en: composite10 boolean field
-          it: composite10 boolean field
+          en: composite05 boolean field
+          it: composite05 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: title
-    value: null
-    values:
-      en: <p>Earum optio molestiae voluptatem.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext05
-    value: null
-    values:
-      en: <p>Earum optio molestiae voluptatem.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator06
+  - code: link01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text08
+  - code: title
     value: null
     values:
-      en: <p>Earum optio molestiae voluptatem.</p>
+      en: <p>Consequuntur laudantium ab id sed.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach04
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Earum optio molestiae voluptatem.</p>
+      en: <p>Consequuntur laudantium ab id sed.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp10
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}

@@ -3,33 +3,27 @@ typeCode: ABB
 description: Content ABB 8 description
 mainGroup: free
 status: PUBLIC
-listModel: '880'
-defaultModel: '881'
+listModel: '66'
+defaultModel: '67'
 attributes:
-  - code: longtext05
+  - code: longtext11
     value: null
     values:
-      en: <p>Ut iure aut ratione sit enim voluptatem quia.</p>
+      en: <p>Et officia porro quis veritatis voluptatibus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state10
+  - code: number10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool09
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monolist11
+  - code: monolist03
     value: null
     values: {}
     elements:
-      - code: monolist11
+      - code: monolist03
         value: null
         values:
           en: list1 field
@@ -37,7 +31,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist11
+      - code: monolist03
         value: null
         values:
           en: list2 field
@@ -47,7 +41,27 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: checkbox04
+  - code: composite09
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite09-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite09-boolean
+        value: null
+        values:
+          en: composite09 boolean field
+          it: composite09 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: checkbox01
     value: null
     values: {}
     elements: []
@@ -56,30 +70,37 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Ut iure aut ratione sit enim voluptatem quia.</p>
+      en: <p>Et officia porro quis veritatis voluptatibus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator03
+  - code: attach07
     value: null
     values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text05
+    value: null
+    values:
+      en: <p>Et officia porro quis veritatis voluptatibus.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Ut iure aut ratione sit enim voluptatem quia.</p>
+      en: <p>Et officia porro quis veritatis voluptatibus.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp08
+  - code: email06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap02
+  - code: timestamp04
     value: null
     values: {}
     elements: []

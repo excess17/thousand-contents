@@ -6,14 +6,27 @@ status: PUBLIC
 listModel: '0'
 defaultModel: '1'
 attributes:
-  - code: longtext06
+  - code: longtext07
     value: null
     values:
-      en: <p>Beatae sit iure.</p>
+      en: <p>Voluptatum cum sit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image10
+  - code: image05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Voluptatum cum sit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap09
     value: null
     values: {}
     elements: []
@@ -25,17 +38,43 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state08
+  - code: hypertext11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist11
+  - code: three-state06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite01
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite01-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite01-boolean
+        value: null
+        values:
+          en: composite01 boolean field
+          it: composite01 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist08
     value: null
     values: {}
     elements:
-      - code: monolist11
+      - code: monolist08
         value: null
         values:
           en: list1 field
@@ -43,7 +82,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist11
+      - code: monolist08
         value: null
         values:
           en: list2 field
@@ -53,7 +92,7 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: checkbox09
+  - code: checkbox00
     value: null
     values: {}
     elements: []
@@ -62,37 +101,24 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Beatae sit iure.</p>
+      en: <p>Voluptatum cum sit.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator00
+  - code: text02
+    value: null
+    values:
+      en: <p>Voluptatum cum sit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext01
-    value: null
-    values:
-      en: <p>Beatae sit iure.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: description
-    value: null
-    values:
-      en: <p>Beatae sit iure.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap05
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp07
+  - code: email10
     value: null
     values: {}
     elements: []

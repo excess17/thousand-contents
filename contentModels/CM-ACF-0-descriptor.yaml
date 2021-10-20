@@ -1,0 +1,15 @@
+id: 150
+contentType: ACF
+description: ACF - List
+contentShape: |-
+  <div class="ACF-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>

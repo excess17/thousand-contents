@@ -3,81 +3,104 @@ typeCode: AAF
 description: Content AAF 19 description
 mainGroup: free
 status: PUBLIC
-listModel: '400'
-defaultModel: '401'
+listModel: '30'
+defaultModel: '31'
 attributes:
-  - code: longtext09
+  - code: body
     value: null
     values:
-      en: <p>Illo suscipit numquam dolores repellat quasi.</p>
+      en: <p>Ut omnis expedita non ex molestiae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number00
+  - code: number01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext06
+  - code: image11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state03
+  - code: hypertext00
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool07
+  - code: composite02
     value: null
     values: {}
     elements: []
+    compositeelements:
+      - code: composite02-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite02-boolean
+        value: null
+        values:
+          en: composite02 boolean field
+          it: composite02 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist03
+    value: null
+    values: {}
+    elements:
+      - code: monolist03
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist03
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
     compositeelements: []
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Illo suscipit numquam dolores repellat quasi.</p>
+      en: <p>Ut omnis expedita non ex molestiae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text04
-    value: null
-    values:
-      en: <p>Illo suscipit numquam dolores repellat quasi.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator08
+  - code: enumerator10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext11
+  - code: monotext09
     value: null
     values:
-      en: <p>Illo suscipit numquam dolores repellat quasi.</p>
+      en: <p>Ut omnis expedita non ex molestiae.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Illo suscipit numquam dolores repellat quasi.</p>
+      en: <p>Ut omnis expedita non ex molestiae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap02
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp10
+  - code: timestamp08
     value: null
     values: {}
     elements: []

@@ -3,39 +3,39 @@ typeCode: ABH
 description: Content ABH 52 description
 mainGroup: free
 status: PUBLIC
-listModel: '1360'
-defaultModel: '1361'
+listModel: '102'
+defaultModel: '103'
 attributes:
-  - code: longtext11
+  - code: longtext03
     value: null
     values:
-      en: <p>Iure odit officiis commodi.</p>
+      en: <p>Necessitatibus vel vero et.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image05
+  - code: number09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number10
+  - code: image06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext09
+  - code: bool11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist06
+  - code: monolist02
     value: null
     values: {}
     elements:
-      - code: monolist06
+      - code: monolist02
         value: null
         values:
           en: list1 field
@@ -43,7 +43,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist06
+      - code: monolist02
         value: null
         values:
           en: list2 field
@@ -53,42 +53,56 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: title
+  - code: composite07
     value: null
-    values:
-      en: <p>Iure odit officiis commodi.</p>
+    values: {}
     elements: []
-    compositeelements: []
+    compositeelements:
+      - code: composite07-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite07-boolean
+        value: null
+        values:
+          en: composite07 boolean field
+          it: composite07 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
     listelements: {}
-  - code: attach00
+  - code: checkbox04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text04
+  - code: title
     value: null
     values:
-      en: <p>Iure odit officiis commodi.</p>
+      en: <p>Necessitatibus vel vero et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext00
+    value: null
+    values:
+      en: <p>Necessitatibus vel vero et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator01
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Iure odit officiis commodi.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: email02
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap03
-    value: null
-    values: {}
+      en: <p>Necessitatibus vel vero et.</p>
     elements: []
     compositeelements: []
     listelements: {}

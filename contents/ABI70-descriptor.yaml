@@ -3,23 +3,23 @@ typeCode: ABI
 description: Content ABI 70 description
 mainGroup: free
 status: PUBLIC
-listModel: '1440'
-defaultModel: '1441'
+listModel: '108'
+defaultModel: '109'
 attributes:
-  - code: longtext05
+  - code: longtext03
     value: null
     values:
-      en: <p>Quis exercitationem et nihil voluptates cumque veritatis laudantium.</p>
+      en: <p>Nesciunt quaerat dolorem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext00
+  - code: image11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state02
+  - code: three-state01
     value: null
     values: {}
     elements: []
@@ -31,27 +31,29 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite11
+  - code: monolist02
     value: null
     values: {}
-    elements: []
-    compositeelements:
-      - code: composite11-text
-        value: true
-        values: {}
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: composite11-boolean
+    elements:
+      - code: monolist02
         value: null
         values:
-          en: composite11 boolean field
-          it: composite11 boolean field
+          en: list1 field
+          it: list1 field
         elements: []
         compositeelements: []
         listelements: {}
+      - code: monolist02
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
     listelements: {}
-  - code: link03
+  - code: checkbox06
     value: null
     values: {}
     elements: []
@@ -60,30 +62,24 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Quis exercitationem et nihil voluptates cumque veritatis laudantium.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: attach08
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator07
-    value: null
-    values: {}
+      en: <p>Nesciunt quaerat dolorem.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Quis exercitationem et nihil voluptates cumque veritatis laudantium.</p>
+      en: <p>Nesciunt quaerat dolorem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumeratormap01
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap09
     value: null
     values: {}
     elements: []

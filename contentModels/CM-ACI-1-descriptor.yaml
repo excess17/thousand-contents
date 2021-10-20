@@ -1,0 +1,15 @@
+id: 169
+contentType: ACI
+description: ACI - Default
+contentShape: |-
+  <div class="ACI-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

@@ -3,13 +3,13 @@ typeCode: ABC
 description: Content ABC 17 description
 mainGroup: free
 status: PUBLIC
-listModel: '960'
-defaultModel: '961'
+listModel: '72'
+defaultModel: '73'
 attributes:
-  - code: longtext09
+  - code: longtext08
     value: null
     values:
-      en: <p>Quia necessitatibus aut.</p>
+      en: <p>Est beatae sunt voluptatem eos aut possimus repellat.</p>
     elements: []
     compositeelements: []
     listelements: {}
@@ -19,75 +19,78 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number07
+  - code: image10
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: three-state10
+  - code: three-state04
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: bool08
+  - code: composite06
     value: null
     values: {}
     elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monolist06
-    value: null
-    values: {}
-    elements:
-      - code: monolist06
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
+    compositeelements:
+      - code: composite06-text
+        value: true
+        values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist06
+      - code: composite06-boolean
         value: null
         values:
-          en: list2 field
-          it: list2 field
+          en: composite06 boolean field
+          it: composite06 boolean field
         elements: []
         compositeelements: []
         listelements: {}
+    listelements: {}
+  - code: checkbox02
+    value: null
+    values: {}
+    elements: []
     compositeelements: []
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Quia necessitatibus aut.</p>
+      en: <p>Est beatae sunt voluptatem eos aut possimus repellat.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext00
+  - code: text00
     value: null
     values:
-      en: <p>Quia necessitatibus aut.</p>
+      en: <p>Est beatae sunt voluptatem eos aut possimus repellat.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text11
+  - code: enumerator01
     value: null
-    values:
-      en: <p>Quia necessitatibus aut.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Quia necessitatibus aut.</p>
+      en: <p>Est beatae sunt voluptatem eos aut possimus repellat.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email03
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
     value: null
     values: {}
     elements: []

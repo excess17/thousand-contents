@@ -3,66 +3,50 @@ typeCode: AAE
 description: Content AAE 48 description
 mainGroup: free
 status: PUBLIC
-listModel: '320'
-defaultModel: '321'
+listModel: '24'
+defaultModel: '25'
 attributes:
-  - code: longtext06
+  - code: body
     value: null
     values:
-      en: <p>Sit dolorem velit laborum qui fugiat blanditiis in.</p>
+      en: <p>Omnis placeat autem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number00
+  - code: date11
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image08
+  - code: image06
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monolist04
+  - code: bool04
     value: null
     values: {}
-    elements:
-      - code: monolist04
-        value: null
-        values:
-          en: list1 field
-          it: list1 field
-        elements: []
-        compositeelements: []
-        listelements: {}
-      - code: monolist04
-        value: null
-        values:
-          en: list2 field
-          it: list2 field
-        elements: []
-        compositeelements: []
-        listelements: {}
+    elements: []
     compositeelements: []
     listelements: {}
-  - code: composite05
+  - code: composite08
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite05-text
+      - code: composite08-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite05-boolean
+      - code: composite08-boolean
         value: null
         values:
-          en: composite05 boolean field
-          it: composite05 boolean field
+          en: composite08 boolean field
+          it: composite08 boolean field
         elements: []
         compositeelements: []
         listelements: {}
@@ -76,39 +60,27 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Sit dolorem velit laborum qui fugiat blanditiis in.</p>
+      en: <p>Omnis placeat autem.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: enumerator09
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: text10
+  - code: monotext09
     value: null
     values:
-      en: <p>Sit dolorem velit laborum qui fugiat blanditiis in.</p>
+      en: <p>Omnis placeat autem.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator10
+    value: null
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Sit dolorem velit laborum qui fugiat blanditiis in.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumeratormap03
-    value: null
-    values: {}
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: timestamp11
-    value: null
-    values: {}
+      en: <p>Omnis placeat autem.</p>
     elements: []
     compositeelements: []
     listelements: {}

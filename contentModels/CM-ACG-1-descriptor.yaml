@@ -1,0 +1,15 @@
+id: 157
+contentType: ACG
+description: ACG - Default
+contentShape: |-
+  <div class="ACG-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

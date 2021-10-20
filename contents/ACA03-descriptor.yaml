@@ -3,81 +3,90 @@ typeCode: ACA
 description: Content ACA 3 description
 mainGroup: free
 status: PUBLIC
-listModel: '1600'
-defaultModel: '1601'
+listModel: '120'
+defaultModel: '121'
 attributes:
   - code: body
     value: null
     values:
-      en: <p>Neque animi vero necessitatibus vel voluptatum corrupti et.</p>
+      en: <p>Ut ea dolor magnam.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: date09
+  - code: date07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number03
+  - code: image01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: hypertext07
+  - code: three-state02
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: link06
+  - code: bool10
     value: null
     values: {}
     elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist00
+    value: null
+    values: {}
+    elements:
+      - code: monolist00
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist00
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
     compositeelements: []
     listelements: {}
   - code: title
     value: null
     values:
-      en: <p>Neque animi vero necessitatibus vel voluptatum corrupti et.</p>
+      en: <p>Ut ea dolor magnam.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text02
-    value: null
-    values:
-      en: <p>Neque animi vero necessitatibus vel voluptatum corrupti et.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: monotext05
-    value: null
-    values:
-      en: <p>Neque animi vero necessitatibus vel voluptatum corrupti et.</p>
-    elements: []
-    compositeelements: []
-    listelements: {}
-  - code: enumerator08
+  - code: attach05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach10
+  - code: monotext11
     value: null
-    values: {}
+    values:
+      en: <p>Ut ea dolor magnam.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Neque animi vero necessitatibus vel voluptatum corrupti et.</p>
+      en: <p>Ut ea dolor magnam.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp11
+  - code: email09
     value: null
     values: {}
     elements: []

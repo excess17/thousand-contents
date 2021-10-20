@@ -1,0 +1,114 @@
+id: 2459
+typeCode: ADA
+description: Content ADA 59 description
+mainGroup: free
+status: PUBLIC
+listModel: '180'
+defaultModel: '181'
+attributes:
+  - code: longtext10
+    value: null
+    values:
+      en: <p>Ipsa ad repellendus quas maxime et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist00
+    value: null
+    values: {}
+    elements:
+      - code: monolist00
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist00
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite01
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite01-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite01-boolean
+        value: null
+        values:
+          en: composite01 boolean field
+          it: composite01 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: checkbox04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Ipsa ad repellendus quas maxime et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text06
+    value: null
+    values:
+      en: <p>Ipsa ad repellendus quas maxime et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Ipsa ad repellendus quas maxime et.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

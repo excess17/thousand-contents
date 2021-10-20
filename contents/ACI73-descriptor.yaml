@@ -1,0 +1,77 @@
+id: 2313
+typeCode: ACI
+description: Content ACI 73 description
+mainGroup: free
+status: PUBLIC
+listModel: '168'
+defaultModel: '169'
+attributes:
+  - code: longtext10
+    value: null
+    values:
+      en: <p>Blanditiis dolorum id vel.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Blanditiis dolorum id vel.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Blanditiis dolorum id vel.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

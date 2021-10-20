@@ -3,53 +3,59 @@ typeCode: ACD
 description: Content ACD 68 description
 mainGroup: free
 status: PUBLIC
-listModel: '1840'
-defaultModel: '1841'
+listModel: '138'
+defaultModel: '139'
 attributes:
-  - code: longtext03
+  - code: body
     value: null
     values:
-      en: <p>Occaecati ut cum eos nulla aut.</p>
+      en: <p>Eligendi consectetur laborum distinctio.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number01
+  - code: date07
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: image07
+  - code: hypertext01
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: composite04
+  - code: bool11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite05
     value: null
     values: {}
     elements: []
     compositeelements:
-      - code: composite04-text
+      - code: composite05-text
         value: true
         values: {}
         elements: []
         compositeelements: []
         listelements: {}
-      - code: composite04-boolean
+      - code: composite05-boolean
         value: null
         values:
-          en: composite04 boolean field
-          it: composite04 boolean field
+          en: composite05 boolean field
+          it: composite05 boolean field
         elements: []
         compositeelements: []
         listelements: {}
     listelements: {}
-  - code: monolist08
+  - code: monolist06
     value: null
     values: {}
     elements:
-      - code: monolist08
+      - code: monolist06
         value: null
         values:
           en: list1 field
@@ -57,7 +63,7 @@ attributes:
         elements: []
         compositeelements: []
         listelements: {}
-      - code: monolist08
+      - code: monolist06
         value: null
         values:
           en: list2 field
@@ -67,7 +73,7 @@ attributes:
         listelements: {}
     compositeelements: []
     listelements: {}
-  - code: link11
+  - code: checkbox04
     value: null
     values: {}
     elements: []
@@ -76,32 +82,30 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Occaecati ut cum eos nulla aut.</p>
+      en: <p>Eligendi consectetur laborum distinctio.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text05
+  - code: attach00
     value: null
-    values:
-      en: <p>Occaecati ut cum eos nulla aut.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: monotext09
+  - code: enumerator02
     value: null
-    values:
-      en: <p>Occaecati ut cum eos nulla aut.</p>
+    values: {}
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Occaecati ut cum eos nulla aut.</p>
+      en: <p>Eligendi consectetur laborum distinctio.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: email10
+  - code: timestamp10
     value: null
     values: {}
     elements: []

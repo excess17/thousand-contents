@@ -3,23 +3,49 @@ typeCode: ACB
 description: Content ACB 43 description
 mainGroup: free
 status: PUBLIC
-listModel: '1680'
-defaultModel: '1681'
+listModel: '126'
+defaultModel: '127'
 attributes:
   - code: body
     value: null
     values:
-      en: <p>Porro suscipit omnis cumque corporis voluptatem placeat.</p>
+      en: <p>Quod corrupti sequi laboriosam recusandae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: number10
+  - code: three-state09
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: checkbox03
+  - code: bool10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite02
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite02-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite02-boolean
+        value: null
+        values:
+          en: composite02 boolean field
+          it: composite02 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link04
     value: null
     values: {}
     elements: []
@@ -28,27 +54,27 @@ attributes:
   - code: title
     value: null
     values:
-      en: <p>Porro suscipit omnis cumque corporis voluptatem placeat.</p>
+      en: <p>Quod corrupti sequi laboriosam recusandae.</p>
     elements: []
     compositeelements: []
     listelements: {}
-  - code: attach09
+  - code: attach05
     value: null
     values: {}
     elements: []
     compositeelements: []
     listelements: {}
-  - code: text07
+  - code: monotext01
     value: null
     values:
-      en: <p>Porro suscipit omnis cumque corporis voluptatem placeat.</p>
+      en: <p>Quod corrupti sequi laboriosam recusandae.</p>
     elements: []
     compositeelements: []
     listelements: {}
   - code: description
     value: null
     values:
-      en: <p>Porro suscipit omnis cumque corporis voluptatem placeat.</p>
+      en: <p>Quod corrupti sequi laboriosam recusandae.</p>
     elements: []
     compositeelements: []
     listelements: {}
@@ -58,7 +84,13 @@ attributes:
     elements: []
     compositeelements: []
     listelements: {}
-  - code: timestamp08
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap08
     value: null
     values: {}
     elements: []

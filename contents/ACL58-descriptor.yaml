@@ -1,0 +1,91 @@
+id: 2378
+typeCode: ACL
+description: Content ACL 58 description
+mainGroup: free
+status: PUBLIC
+listModel: '174'
+defaultModel: '175'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Quas ut totam harum et est dolorem rerum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite07
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite07-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite07-boolean
+        value: null
+        values:
+          en: composite07 boolean field
+          it: composite07 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: link08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Quas ut totam harum et est dolorem rerum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Quas ut totam harum et est dolorem rerum.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

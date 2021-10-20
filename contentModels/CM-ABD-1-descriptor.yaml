@@ -1,0 +1,15 @@
+id: 1041
+contentType: ABD
+description: ABD - Default
+contentShape: |-
+  <div class="ABD-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

@@ -1,0 +1,84 @@
+id: 857
+typeCode: ABA
+description: Content ABA 57 description
+mainGroup: free
+status: PUBLIC
+listModel: '800'
+defaultModel: '801'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Ullam sed quae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Ullam sed quae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text11
+    value: null
+    values:
+      en: <p>Ullam sed quae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Ullam sed quae.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

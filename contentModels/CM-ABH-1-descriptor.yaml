@@ -1,0 +1,15 @@
+id: 1361
+contentType: ABH
+description: ABH - Default
+contentShape: |-
+  <div class="ABH-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

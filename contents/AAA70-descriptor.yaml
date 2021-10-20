@@ -1,0 +1,100 @@
+id: 70
+typeCode: AAA
+description: Content AAA 70 description
+mainGroup: free
+status: PUBLIC
+listModel: '0'
+defaultModel: '1'
+attributes:
+  - code: longtext06
+    value: null
+    values:
+      en: <p>Eum amet totam tempora et odio vitae facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist11
+    value: null
+    values: {}
+    elements:
+      - code: monolist11
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist11
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Eum amet totam tempora et odio vitae facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext01
+    value: null
+    values:
+      en: <p>Eum amet totam tempora et odio vitae facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Eum amet totam tempora et odio vitae facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

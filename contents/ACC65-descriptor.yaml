@@ -1,0 +1,91 @@
+id: 1825
+typeCode: ACC
+description: Content ACC 65 description
+mainGroup: free
+status: PUBLIC
+listModel: '1760'
+defaultModel: '1761'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Fuga animi quaerat occaecati iure.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext09
+    value: null
+    values:
+      en: <p>Fuga animi quaerat occaecati iure.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Fuga animi quaerat occaecati iure.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Fuga animi quaerat occaecati iure.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text08
+    value: null
+    values:
+      en: <p>Fuga animi quaerat occaecati iure.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

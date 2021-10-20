@@ -1,0 +1,15 @@
+id: 802
+contentType: ABA
+description: ABA - Details
+contentShape: |-
+  <div class="ABA-container details">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

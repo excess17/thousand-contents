@@ -1,0 +1,97 @@
+id: 1564
+typeCode: ABL
+description: Content ABL 44 description
+mainGroup: free
+status: PUBLIC
+listModel: '1520'
+defaultModel: '1521'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>A nam excepturi sit et esse consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist01
+    value: null
+    values: {}
+    elements:
+      - code: monolist01
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist01
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: composite10
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite10-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite10-boolean
+        value: null
+        values:
+          en: composite10 boolean field
+          it: composite10 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>A nam excepturi sit et esse consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext05
+    value: null
+    values:
+      en: <p>A nam excepturi sit et esse consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text08
+    value: null
+    values:
+      en: <p>A nam excepturi sit et esse consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>A nam excepturi sit et esse consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}

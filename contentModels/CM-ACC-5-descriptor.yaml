@@ -1,0 +1,15 @@
+id: 1765
+contentType: ACC
+description: ACC - Banner
+contentShape: |-
+  <div class="ACC-container text3">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

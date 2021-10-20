@@ -1,0 +1,109 @@
+id: 1845
+typeCode: ACD
+description: Content ACD 5 description
+mainGroup: free
+status: PUBLIC
+listModel: '1840'
+defaultModel: '1841'
+attributes:
+  - code: longtext03
+    value: null
+    values:
+      en: <p>Adipisci qui asperiores est at est.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: composite04
+    value: null
+    values: {}
+    elements: []
+    compositeelements:
+      - code: composite04-text
+        value: true
+        values: {}
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: composite04-boolean
+        value: null
+        values:
+          en: composite04 boolean field
+          it: composite04 boolean field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    listelements: {}
+  - code: monolist08
+    value: null
+    values: {}
+    elements:
+      - code: monolist08
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist08
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: link11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Adipisci qui asperiores est at est.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text05
+    value: null
+    values:
+      en: <p>Adipisci qui asperiores est at est.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext09
+    value: null
+    values:
+      en: <p>Adipisci qui asperiores est at est.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Adipisci qui asperiores est at est.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

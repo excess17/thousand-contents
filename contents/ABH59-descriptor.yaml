@@ -1,0 +1,100 @@
+id: 1419
+typeCode: ABH
+description: Content ABH 59 description
+mainGroup: free
+status: PUBLIC
+listModel: '1360'
+defaultModel: '1361'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Provident dignissimos omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist06
+    value: null
+    values: {}
+    elements:
+      - code: monolist06
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist06
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Provident dignissimos omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text04
+    value: null
+    values:
+      en: <p>Provident dignissimos omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Provident dignissimos omnis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

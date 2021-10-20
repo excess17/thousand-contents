@@ -1,0 +1,15 @@
+id: 2
+contentType: AAA
+description: AAA - Details
+contentShape: |-
+  <div class="AAA-container details">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

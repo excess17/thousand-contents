@@ -1,0 +1,15 @@
+id: 1045
+contentType: ABD
+description: ABD - Banner
+contentShape: |-
+  <div class="ABD-container text3">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

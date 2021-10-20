@@ -1,0 +1,71 @@
+id: 764
+typeCode: AAL
+description: Content AAL 44 description
+mainGroup: free
+status: PUBLIC
+listModel: '720'
+defaultModel: '721'
+attributes:
+  - code: longtext10
+    value: null
+    values:
+      en: <p>Suscipit atque voluptatem amet dolores sed et consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Suscipit atque voluptatem amet dolores sed et consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Suscipit atque voluptatem amet dolores sed et consequatur.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

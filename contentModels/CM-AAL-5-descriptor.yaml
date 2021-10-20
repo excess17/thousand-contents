@@ -1,0 +1,15 @@
+id: 725
+contentType: AAL
+description: AAL - Banner
+contentShape: |-
+  <div class="AAL-container text3">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

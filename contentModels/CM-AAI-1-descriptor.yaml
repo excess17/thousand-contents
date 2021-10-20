@@ -1,0 +1,15 @@
+id: 641
+contentType: AAI
+description: AAI - Default
+contentShape: |-
+  <div class="AAI-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

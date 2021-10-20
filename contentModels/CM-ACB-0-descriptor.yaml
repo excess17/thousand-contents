@@ -1,0 +1,15 @@
+id: 1680
+contentType: ACB
+description: ACB - List
+contentShape: |-
+  <div class="ACB-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>

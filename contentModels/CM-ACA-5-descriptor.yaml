@@ -1,0 +1,15 @@
+id: 1605
+contentType: ACA
+description: ACA - Banner
+contentShape: |-
+  <div class="ACA-container text3">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

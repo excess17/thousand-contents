@@ -1,0 +1,15 @@
+id: 1685
+contentType: ACB
+description: ACB - Banner
+contentShape: |-
+  <div class="ACB-container text3">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

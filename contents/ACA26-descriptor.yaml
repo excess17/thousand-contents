@@ -1,0 +1,85 @@
+id: 1626
+typeCode: ACA
+description: Content ACA 26 description
+mainGroup: free
+status: PUBLIC
+listModel: '1600'
+defaultModel: '1601'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Veritatis eum pariatur rerum nisi est ipsam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Veritatis eum pariatur rerum nisi est ipsam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text02
+    value: null
+    values:
+      en: <p>Veritatis eum pariatur rerum nisi est ipsam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext05
+    value: null
+    values:
+      en: <p>Veritatis eum pariatur rerum nisi est ipsam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Veritatis eum pariatur rerum nisi est ipsam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,66 @@
+id: 1732
+typeCode: ACB
+description: Content ACB 52 description
+mainGroup: free
+status: PUBLIC
+listModel: '1680'
+defaultModel: '1681'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Et tempora et quia modi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Et tempora et quia modi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text07
+    value: null
+    values:
+      en: <p>Et tempora et quia modi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Et tempora et quia modi.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

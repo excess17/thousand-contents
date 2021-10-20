@@ -1,0 +1,15 @@
+id: 481
+contentType: AAG
+description: AAG - Default
+contentShape: |-
+  <div class="AAG-container default">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+        <p>$content.body.text</p>
+      </div>
+  </div>

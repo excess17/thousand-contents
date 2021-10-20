@@ -1,0 +1,87 @@
+id: 882
+typeCode: ABB
+description: Content ABB 2 description
+mainGroup: free
+status: PUBLIC
+listModel: '880'
+defaultModel: '881'
+attributes:
+  - code: longtext05
+    value: null
+    values:
+      en: <p>Optio aut id culpa aperiam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist11
+    value: null
+    values: {}
+    elements:
+      - code: monolist11
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist11
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Optio aut id culpa aperiam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Optio aut id culpa aperiam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

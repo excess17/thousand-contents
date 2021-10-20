@@ -1,0 +1,15 @@
+id: 1920
+contentType: ACE
+description: ACE - List
+contentShape: |-
+  <div class="ACE-container list">
+      <div>
+        <h1>$content.title.text</h1>
+      </div>
+      <div class="description">
+        <p>$content.description.text</p>
+      </div>
+      <div class="body">
+          <p>$content.body.text</p>
+        </div>
+  </div>

@@ -1,0 +1,84 @@
+id: 1129
+typeCode: ABE
+description: Content ABE 9 description
+mainGroup: free
+status: PUBLIC
+listModel: '1120'
+defaultModel: '1121'
+attributes:
+  - code: longtext04
+    value: null
+    values:
+      en: <p>Reprehenderit eum fuga veniam rerum facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Reprehenderit eum fuga veniam rerum facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext01
+    value: null
+    values:
+      en: <p>Reprehenderit eum fuga veniam rerum facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Reprehenderit eum fuga veniam rerum facilis.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

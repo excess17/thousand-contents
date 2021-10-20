@@ -1,0 +1,85 @@
+id: 478
+typeCode: AAF
+description: Content AAF 78 description
+mainGroup: free
+status: PUBLIC
+listModel: '400'
+defaultModel: '401'
+attributes:
+  - code: longtext09
+    value: null
+    values:
+      en: <p>Et voluptatem quo enim numquam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Et voluptatem quo enim numquam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text04
+    value: null
+    values:
+      en: <p>Et voluptatem quo enim numquam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext11
+    value: null
+    values:
+      en: <p>Et voluptatem quo enim numquam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Et voluptatem quo enim numquam.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
